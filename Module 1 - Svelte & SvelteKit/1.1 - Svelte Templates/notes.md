@@ -8,6 +8,9 @@ JS/TSs by adding a script file
 
 ---
 
+Stackblitz project:
+https://stackblitz.com/edit/sveltejs-kit-template-default-cutye6?file=src%2Flib%2Fcomponents%2FApp.svelte
+
 - 1. Show the button
 - 2. Add a style tag (purple comic-sans 2em)
 - 3. Add a script tag (add a click handler to increase count)
