@@ -1,0 +1,32 @@
+[
+	{
+		"slug": "dec-2022",
+		"title": "What's new in Svelte: December 2022",
+		"excerpt": "Rounding the corner to SvelteKit 1.0",
+		"content": "SvelteKit 1.0 is just around the corner! With 99% of the milestone issues completed, there's a lot of new changes from the last month to cover...\n\nLet's get to it!"
+	},
+	{
+		"slug": "nov-2022",
+		"title": "What's new in Svelte: November 2022",
+		"excerpt": "Better forms, routes and inline styles across SvelteKit and Svelte",
+		"content": "It's been a busy October for the Svelte community. use:enhance and Advanced Routes got some great improvements in SvelteKit while the Svelte compiler released a minor version to improve the day-to-day dev experience.\n\nThere's also a huge showcase to cover... so let's jump in!"
+	},
+	{
+		"slug": "oct-2022",
+		"title": "What's new in Svelte: October 2022",
+		"excerpt": "Svelte Summit, `use:enhance`, and a SvelteKit Release Candidate!",
+		"content": "There's a bunch of updates this month... from new features in Svelte and SvelteKit to a whole 2-day summit! Plus, the Svelte extension gets some helpful new tools, new accessibility (a11y) warnings, and Tan Li Hau teaches us how to build our own Svelte and a Svelte spreadsheet 😎"
+	},
+	{
+		"slug": "sept-2022",
+		"title": "What's new in Svelte: September 2022",
+		"excerpt": "Migrating to SvelteKit's new filesystem-based router",
+		"content": "Still looking for something to do this month? It's your last chance to get tickets to Svelte Summit, Stockholm! Join us on Sept 8-9th 🎉\n\nWith the redesign of SvelteKit's filesystem-based router merging early last month, there's lots to cover this month - from the migration script to a number of new blog posts, videos and tutorials.\n\nBut the new routing isn't the only new feature in SvelteKit..."
+	},
+	{
+		"slug": "aug-2022",
+		"title": "What's new in Svelte: August 2022",
+		"excerpt": "Changes to SvelteKit's `load` before 1.0 plus support for Vite 3 and `vite.config.js`!",
+		"content": "There's a lot to cover this month... big changes are coming to SvelteKit's design before 1.0 can be completed. If you haven't already, check out Rich's Discussion, Fixing load, and tightening up SvelteKit's design before 1.0 #5748.\n\nAlso, @dummdidumm (Simon H) has joined Vercel to work on Svelte full-time and @tcc-sejohnson has joined the group of SvelteKit maintainers! We're super excited to have additional maintainers now dedicated to working on Svelte and SvelteKit and have already been noticing their impact. July was the third largest month for SvelteKit changes since its inception!\n\nNow onto the rest of the updates..."
+	}
+]
