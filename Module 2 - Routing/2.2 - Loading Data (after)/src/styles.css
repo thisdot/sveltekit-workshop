@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: rebeccapurple;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 1rem;
+}
+
+a {
+	color: rebeccapurple;
+}
+
+a:hover {
+	color: rgb(59, 30, 88);
+}
