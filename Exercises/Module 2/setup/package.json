@@ -1,6 +1,7 @@
 {
-	"name": "kit-template-default",
+	"name": "sveltekit-workshop-module-2-exercise",
 	"version": "0.0.1",
+	"private": true,
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
