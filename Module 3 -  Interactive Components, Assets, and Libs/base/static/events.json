@@ -1,0 +1,84 @@
+[
+    {
+        "start": "2023-01-01 00:00",
+        "end": "2023-01-01 09:00",
+        "resourceId": 1,
+        "display": "background"
+    },
+    {
+        "start": "2023-01-02 12:00",
+        "end": "2023-01-02 14:00",
+        "resourceId": 2,
+        "display": "background"
+    },
+    {
+        "start": "2023-01-03 17:00",
+        "end": "2023-01-03 24:00",
+        "resourceId": 1,
+        "display": "background"
+    },
+    {
+        "start": "2023-01-01 10:00",
+        "end": "2023-01-01 14:00",
+        "resourceId": 1,
+        "title": "The calendar can display background and regular events",
+        "color": "#FE6B64"
+    },
+    {
+        "start": "2023-01-02 16:00",
+        "end": "2023-01-03 08:00",
+        "resourceId": 2,
+        "title": "An event may span to another day",
+        "color": "#B29DD9"
+    },
+    {
+        "start": "2023-01-03 09:00",
+        "end": "2023-01-03 13:00",
+        "resourceId": 2,
+        "title": "Events can be assigned to resources and the calendar has the resources view built-in",
+        "color": "#779ECB"
+    },
+    {
+        "start": "2023-01-04 14:00",
+        "end": "2023-01-04 20:00",
+        "resourceId": 1,
+        "title": "",
+        "color": "#FE6B64"
+    },
+    {
+        "start": "2023-01-04 15:00",
+        "end": "2023-01-04 18:00",
+        "resourceId": 1,
+        "title": "Overlapping events are positioned properly",
+        "color": "#779ECB"
+    },
+    {
+        "start": "2023-01-06 10:00",
+        "end": "2023-01-06 16:00",
+        "resourceId": 2,
+        "titleHTML": "You have complete control over the <i><b>display</b></i> of events…",
+        "color": "#779ECB"
+    },
+    {
+        "start": "2023-01-06 14:00",
+        "end": "2023-01-06 19:00",
+        "resourceId": 2,
+        "title": "…and you can drag and drop the events!",
+        "color": "#FE6B64"
+    },
+    {
+        "start": "2023-01-06 18:00",
+        "end": "2023-01-06 21:00",
+        "resourceId": 2,
+        "title": "",
+        "color": "#B29DD9"
+    },
+    {
+        "start": "2023-01-02",
+        "end": "2023-01-04",
+        "resourceId": 1,
+        "title": "All-day events can be displayed at the top",
+        "color": "#B29DD9",
+        "allDay": true
+    }
+]
