@@ -1,5 +1,17 @@
 **challenge**: Let's move our Blog Data out to a CMS!
 
+So, you can either signup for contentful and create your own BlogPost data, OR you can use these tokens created specifically to access the
+blogpost data I have already added to contentful.
+
+(create a workshop specific .env file and share it to the participants)
+(for video, walk through how to create their own contentful account and add the data)
+
+```
+CONTENTFUL_SPACE_ID=(from contentful)
+CONTENTFUL_PREVIEW_TOKEN=(from contentful)
+CONTENTFUL_DELIVERY_TOKEN=(from contentful)
+```
+
 - sign up for [contentful](https://contentful.com)
 - install `contentful`, `@contentful/rich-text-types`, and `@contentful/rich-text-html-renderer`
 
