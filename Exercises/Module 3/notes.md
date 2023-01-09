@@ -10,9 +10,9 @@ For each post page, show an image of your choice for each theme.
 
 Also, replace the link that says `Logo` with an image of your choice.
 
-**Setup stakcblitz**: https://stackblitz.com/edit/sveltejs-kit-template-default-5qhzqr?file=README.md
+**Setup stackblitz**: https://stackblitz.com/edit/sveltejs-kit-template-default-5qhzqr?file=README.md
 
-**Answer stakcblitz**: https://stackblitz.com/edit/sveltejs-kit-template-default-gdqwvv?file=README.md
+**Answer stackblitz**: https://stackblitz.com/edit/sveltejs-kit-template-default-gdqwvv?file=README.md
 
 ---
 
