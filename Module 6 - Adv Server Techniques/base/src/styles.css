@@ -1,0 +1,239 @@
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: rebeccapurple;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 1rem;
+}
+
+a {
+	color: rebeccapurple;
+}
+
+a:hover {
+	color: rgb(59, 30, 88);
+}
+
+button {
+	align-items: center;
+	background-clip: padding-box;
+	background-color: #669933;
+	border: 1px solid transparent;
+	border-radius: 0.25rem;
+	box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+	box-sizing: border-box;
+	color: #fff;
+	cursor: pointer;
+	display: inline-flex;
+	font-family: system-ui, -apple-system, system-ui, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	justify-content: center;
+	line-height: 1.25;
+	margin: 0;
+	min-height: 3rem;
+	padding: calc(0.875rem - 1px) calc(1.5rem - 1px);
+	position: relative;
+	text-decoration: none;
+	transition: all 250ms;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	vertical-align: baseline;
+	width: auto;
+}
+
+button:hover,
+button:focus {
+	background-color: #fb8332;
+	box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+}
+
+button:hover {
+	transform: translateY(-1px);
+}
+
+button:active {
+	background-color: #c85000;
+	box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+	transform: translateY(0);
+}
+
+table {
+	table-layout: auto;
+	width: 100%;
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 0.9em;
+	font-family: sans-serif;
+	min-width: 400px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+thead tr {
+	background-color: rebeccapurple;
+	color: #ffffff;
+	text-align: left;
+}
+td,
+th {
+	padding: 12px 15px;
+}
+tbody tr {
+	border-bottom: thin solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+	background-color: #f3f3f3;
+}
+
+tbody tr:last-of-type {
+	border-bottom: 2px solid rebeccapurple;
+}
+
+tbody tr:hover {
+	cursor: pointer;
+	color: rebeccapurple;
+}
+
+table button[name='movieToDelete'] {
+	appearance: none;
+	background-color: #993333;
+	border: 1px solid rgba(27, 31, 35, 0.15);
+	border-radius: 6px;
+	box-shadow: rgba(27, 31, 35, 0.1) 0 1px 0;
+	box-sizing: border-box;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 20px;
+	padding: 3px 8px;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+table button[name='movieToDelete']:focus:not(:focus-visible):not(.focus-visible) {
+	box-shadow: none;
+	outline: none;
+}
+
+table button[name='movieToDelete']:hover {
+	background-color: #bf4040;
+}
+
+table button[name='movieToDelete']:focus,
+table button[name='movieToDelete']:active {
+	box-shadow: rgba(46, 164, 79, 0.4) 0 0 0 3px;
+	outline: none;
+}
+
+table button[name='movieToDelete']:disabled {
+	background-color: #94d3a2;
+	border-color: rgba(27, 31, 35, 0.1);
+	color: rgba(255, 255, 255, 0.8);
+	cursor: default;
+}
+
+table button[name='movieToDelete']:active {
+	background-color: #c24848;
+	box-shadow: rgba(20, 70, 32, 0.2) 0 1px 0 inset;
+}
+
+label {
+	display: inline-block;
+	font: bold 1.2rem sans-serif;
+	margin-top: 0.5rem;
+}
+
+input:not([type]),
+input[type='text'],
+input[type='email'],
+input[type='number'],
+select,
+textarea {
+	font: 1rem / 1.2 sans-serif;
+	display: block;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0.5rem 0.75rem;
+}
+
+textarea {
+	min-height: 6rem;
+}
+
+select {
+	color: currentColor;
+	appearance: none;
+	background: url('$lib/icons/down-arrow.svg') no-repeat center right 0.5rem;
+	background-size: 0.75rem;
+	padding-right: 2rem;
+}
+
+.release,
+.rating,
+.action {
+	text-align: end;
+}
+
+.action {
+	width: content;
+}
+
+td.comment {
+	white-space: pre-wrap;
+	max-width: 30%;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+.submission {
+	margin-top: 1rem;
+	flex-flow: wrap;
+	display: flex;
+	justify-content: flex-end;
+	gap: 0.5rem;
+}
+
+.error {
+	flex: 1;
+	color: white;
+	background: red;
+	border: 1px solid rgba(27, 31, 35, 0.15);
+	border-radius: 0.25rem;
+	min-height: 3rem;
+	padding: calc(0.875rem - 1px) calc(1.5rem - 1px);
+}
+
+.error:empty {
+	display: none;
+}
+
+form > button[type='submit'] {
+	margin-top: 1rem;
+	margin-left: auto;
+}
