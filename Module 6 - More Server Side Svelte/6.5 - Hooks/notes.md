@@ -16,7 +16,7 @@ For **Server Hooks** there are
   - `resolve` takes a second argument of options
   ```ts
   return resolve(event, {
-    transformPageChunk: ({ html }) => html.replace('old', 'new'),
+    transformPageChunk: ({ html, done }) => html.replace('old', 'new'),
     filterSerializedResponseHeaders: (name) => name.startsWith('x-'),
     preload: ({ type, path }) => type === 'js' || path.includes('/important/'),
   });
