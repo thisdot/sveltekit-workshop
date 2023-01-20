@@ -1,1 +1,0 @@
-<p>This is the Admin only area.  Restricted Access</p>

@@ -22,6 +22,8 @@ So, lets go back to our earlier example and move stuff to the server...
 
 Stackblitz link: ???
 
+---
+
 - starting with the Bobs burgers characters from Module 2 - loading data
 - change `page.ts` to `page.server.ts`, explain it only runs on the server now _\*note the difference in the console logs\*_
 - not the change to `PageServerLoad` and how it adds some new parameter properties: request, cookies,locals, platform
@@ -31,7 +33,7 @@ Stackblitz link: ???
   - platform and getClientAddress are provided by the adapter, so different deployment targets can give you different things
     - for example in the CLoudflare Worker adapter you can get access to Cloudflares KV stores from the platform object
 - so when should you use Server Load function rather than the universal load functions?
-  - when you need to access a database directly (or the filesystem)
+  - when you need to access a database (directly or indirectly) (or the filesystem)
   - when you need to use private environment variables / secrets
 - values return from server load functions need to be serializable BUT uses devalue so can handle things like Maps and Dates
 
@@ -65,7 +67,7 @@ Stackblitz link: ???
   - talk abiout not commiting secrets to github (VC) `env.local` is vite's suggestion
 - change the `+layout.server.fetch` to use the ENV var
 - maybe use query params to limit the number of characters returned `?limit=10`
-- then change the page to also use the real API
+- then change the individual page to also use the real API
 
 ### Errors
 
