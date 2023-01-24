@@ -1,5 +1,3 @@
-A route like src/routes/archive/[page] would match /archive/3, but it would also match /archive/potato. We don't want that. You can ensure that route parameters are well-formed by adding a matcher — which takes the parameter string ("3" or "potato") and returns true if it is valid — to your params directory...
-
 When you have a paramaterized route like `post/[id]` it could match anything, `post/3` but also `post/whatdoesthisdo`?
 You may want to validate your route paramaters to limit what will actually **match** your route.
 

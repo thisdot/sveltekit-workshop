@@ -6,12 +6,11 @@ It's this kind of decoupling that allows for great DX without sacrificing UX.
 
 SvelteKit offers a number of officially supported adapters.
 
-- Cloudflare Pages via `adapter-cloudflare`
-- Netlify via `adapter-netlify`
-- Vercel via `adapter-vercel`
-- a simple nodejs server via `@sveltejs/adapter-node`
-- prerendered pages via `@sveltejs/adapter-static`
-- You can also use `@sveltejs/adapter-static` to generate single-page apps (SPAs) by specifying a fallback page and disabling SSR.
+Cloudflare Pages via `adapter-cloudflare`
+Netlify via `adapter-netlify`
+Vercel via `adapter-vercel`
+a simple nodejs server via `@sveltejs/adapter-node`
+prerendered pages and SPAs via `@sveltejs/adapter-static`
 
 ### Community adapters
 
