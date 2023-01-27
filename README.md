@@ -1,6 +1,6 @@
 # sveltekit-training
 
-Repository including all the source code and information for Corporate SvelteKit Trainings
+Repository including all the source code and information for the SvelteKit Workshop.
 
 #### StackBlitz collection:
 
