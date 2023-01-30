@@ -1,0 +1,7 @@
+body:has(.category_personal) {
+	background-color: blanchedalmond;
+}
+
+.category_personal {
+	font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}

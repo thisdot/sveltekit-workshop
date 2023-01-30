@@ -1,0 +1,52 @@
+<script lang="ts">  
+  import logo from '$lib/images/svelte-kit.svg'
+  import '../styles.css'
+  import type { LayoutData } from './$types';
+
+  export let data: LayoutData;
+</script>
+
+<header>
+  <figure>
+    <a href="/"><img class="logo" src={logo} alt="The SvelteKit Blog" /></a>
+  </figure>
+
+  <nav>
+    <a href="/about">About</a>
+    {#if data.loggedInUser}
+      <a href="/profile">{data.loggedInUser}</a>
+    {:else}
+      <a href="/login">Login</a>
+    {/if}
+  </nav>
+</header>
+
+<slot></slot>
+
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 1rem 2rem;
+  }
+
+  figure {
+    margin: 0;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+  }
+
+  nav > a {
+    margin-right: 1rem;
+  }
+  nav > a:last-of-type {
+    margin-right: 0;
+  }
+  .logo {
+    height: 2em;
+  }
+</style>
