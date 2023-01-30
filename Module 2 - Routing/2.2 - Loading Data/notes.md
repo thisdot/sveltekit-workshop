@@ -3,7 +3,7 @@ Anyone know the TV Show Bob's Burgers?
 
 ---
 
-Stackblitz link: https://stackblitz.com/edit/sveltejs-kit-template-default-asrcpy?file=src/routes/+page.svelte
+Stackblitz link: https://stackblitz.com/edit/sveltejs-kit-template-default-ea7zok?file=README.md
 
 - add a `<a href="/characters">Characters</a>` link to the `+layout.svelte` component
 - create a `routes/characters/+page.svelte` component with `<title>` and `<h1>` tags `Characters`
