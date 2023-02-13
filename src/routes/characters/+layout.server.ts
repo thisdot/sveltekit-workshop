@@ -1,3 +1,5 @@
+import { BOBS_BURGERS_API } from '$env/static/private';
+
 type Character = {
 	id: number;
 	name: string;
@@ -6,7 +8,7 @@ type Character = {
 };
 
 export const load = async ({ fetch }) => {
-	const response = await fetch('https://svelte.fun/api/bobs-burgers/characters');
+	const response = await fetch(`${BOBS_BURGERS_API}/characters`);
 
 	return {
 		characters: response.json() as Promise<Character[]>
