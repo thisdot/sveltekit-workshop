@@ -12,6 +12,16 @@
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write ."
 	},
+	"dependencies": {
+		"@rollup/browser": "^3.20.2",
+		"@sveltejs/site-kit": "^3.4.0",
+		"acorn": "^8.8.2",
+		"codemirror": "^5.65.12",
+		"estree-walker": "^3.0.3",
+		"sourcemap-codec": "^1.4.8",
+		"svelte-json-tree": "^1.0.0",
+		"yootils": "^0.3.1"
+	},
 	"devDependencies": {
 		"@fontsource/fira-mono": "^4.5.10",
 		"@neoconfetti/svelte": "^1.0.0",
