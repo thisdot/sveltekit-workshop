@@ -1,15 +1,11 @@
-<script lang="ts">
-	let subjects = 'Trainees';
-</script>
-
 <svelte:head>
-	<title>Home</title>
+  <title>SvelteKit Training</title>
 </svelte:head>
 
-<h1>Hello SvelteKit {subjects}!</h1>
+<h1>Advanced Server Techniques</h1>
 
-<style>
-	h1 {
-		color: rebeccapurple;
-	}
-</style>
+<ul>
+  <li>
+    <a href="/super-secret">Super Secret</a>
+  </li>
+</ul>
