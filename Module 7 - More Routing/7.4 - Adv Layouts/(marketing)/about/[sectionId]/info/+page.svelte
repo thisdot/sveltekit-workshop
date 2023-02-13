@@ -1,1 +1,0 @@
-<p>Here is some <b>Info</b> about some product</p>
