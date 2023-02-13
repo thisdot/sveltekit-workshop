@@ -1,0 +1,13 @@
+{
+	"id": 32,
+	"name": "Beatrice",
+	"image": "/bobs-burgers/images/32.jpg",
+	"gender": "Female",
+	"hairColor": "Red",
+	"occupation": "Receptionist at Spratt's Sweets factory",
+	"firstEpisode": "\"Like Gene for Chocolate\"",
+	"voicedBy": "Melissa Bardin Galsky",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/32",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Beatrice",
+	"relatives": []
+}

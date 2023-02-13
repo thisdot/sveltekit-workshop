@@ -1,0 +1,13 @@
+{
+	"id": 63,
+	"name": "Candy",
+	"image": "/bobs-burgers/images/63.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"occupation": "Student at Wagstaff School",
+	"firstEpisode": "\"The Hormone-iums\"",
+	"voicedBy": "H. Jon Benjamin",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/63",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Candy",
+	"relatives": []
+}

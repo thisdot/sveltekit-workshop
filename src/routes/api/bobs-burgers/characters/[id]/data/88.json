@@ -1,0 +1,13 @@
+{
+	"id": 88,
+	"name": "Claire and Jacqueline",
+	"image": "/bobs-burgers/images/88.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde (Claire), Brown (Jacqueline)",
+	"occupation": "Students",
+	"firstEpisode": "\"Mother Daughter Laser Razor\"",
+	"voicedBy": "Lindsey Stoddart (Claire), John Roberts (Jacqueline)",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/88",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Claire_and_Jacqueline",
+	"relatives": []
+}

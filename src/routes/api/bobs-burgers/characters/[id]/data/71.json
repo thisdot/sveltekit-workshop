@@ -1,0 +1,13 @@
+{
+	"id": 71,
+	"name": "Chad",
+	"image": "/bobs-burgers/images/71.jpg",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"occupation": "Student",
+	"firstEpisode": "\"Just One of the Boyz 4 Now for Now\"",
+	"voicedBy": "Rory O'Malley",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/71",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Chad",
+	"relatives": []
+}

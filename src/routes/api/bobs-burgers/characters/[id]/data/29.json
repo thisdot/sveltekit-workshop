@@ -1,0 +1,13 @@
+{
+	"id": 29,
+	"name": "Austin",
+	"image": "/bobs-burgers/images/29.jpg",
+	"gender": "Male",
+	"hairColor": "Blonde",
+	"occupation": "Former employee at Outdoor Adventure World",
+	"firstEpisode": "\"Into the Mild\"",
+	"voicedBy": "Rob Riggle",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/29",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Austin",
+	"relatives": []
+}

@@ -1,0 +1,13 @@
+{
+	"id": 86,
+	"name": "CJ and Darnell",
+	"image": "/bobs-burgers/images/86.jpg",
+	"gender": "Male",
+	"hairColor": "Blond (CJ), Black (Darnell)",
+	"occupation": "Stuntmen",
+	"firstEpisode": "\"Friends with Burger-fits\"",
+	"voicedBy": "Brian Huskey (CJ), Keegan-Michael Key (Darnell)",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/86",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/CJ_and_Darnell",
+	"relatives": []
+}

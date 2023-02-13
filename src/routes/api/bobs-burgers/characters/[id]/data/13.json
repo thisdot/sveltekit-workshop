@@ -1,0 +1,19 @@
+{
+	"id": 13,
+	"name": "Amy",
+	"image": "/bobs-burgers/images/13.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"relatives": [
+		{
+			"name": "Dillon",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Dillon",
+			"relationship": "daughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/122"
+		}
+	],
+	"firstEpisode": "\"The Grand Mama-pest Hotel\"",
+	"voicedBy": "Kerri Kenney-Silver",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/13",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Amy"
+}

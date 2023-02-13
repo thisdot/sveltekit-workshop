@@ -1,0 +1,13 @@
+{
+	"id": 43,
+	"name": "Bethany",
+	"image": "/bobs-burgers/images/43.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"occupation": "Thundergirl Troop 257 leader",
+	"firstEpisode": "\"Tina Tailor Soldier Spy\"",
+	"voicedBy": "Rachel Dratch",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/43",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Bethany_(Thundergirls)",
+	"relatives": []
+}

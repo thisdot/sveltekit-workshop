@@ -1,0 +1,13 @@
+{
+	"id": 73,
+	"name": "Charac",
+	"image": "/bobs-burgers/images/73.jpg",
+	"gender": "Male",
+	"hairColor": "Gray",
+	"occupation": "Caricature Artist",
+	"firstEpisode": "\"Moody Foodie\"",
+	"voicedBy": "David Herman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/73",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Charac",
+	"relatives": []
+}

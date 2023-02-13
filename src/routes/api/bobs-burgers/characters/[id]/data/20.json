@@ -1,0 +1,13 @@
+{
+	"id": 20,
+	"name": "Angie Moscatone",
+	"image": "/bobs-burgers/images/20.jpg",
+	"gender": "Female",
+	"hairColor": "Black",
+	"occupation": "Drummer in The Ta Tas",
+	"firstEpisode": "\"Purple Rain-Union\"",
+	"voicedBy": "Lindsey Stoddart",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/20",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Angie_Moscatone",
+	"relatives": []
+}

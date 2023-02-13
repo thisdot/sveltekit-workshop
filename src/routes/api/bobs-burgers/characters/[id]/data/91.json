@@ -1,0 +1,13 @@
+{
+	"id": 91,
+	"name": "Clyde",
+	"image": "/bobs-burgers/images/91.jpg",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"occupation": "Owner & Operator of About a Toy",
+	"firstEpisode": "\"Flu-ouise\"",
+	"voicedBy": "David Herman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/91",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Clyde",
+	"relatives": []
+}

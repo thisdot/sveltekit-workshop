@@ -1,0 +1,25 @@
+{
+	"id": 59,
+	"name": "Caitlin",
+	"image": "/bobs-burgers/images/59.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"relatives": [
+		{
+			"name": "Dahlia",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Dahlia",
+			"relationship": "daughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/103"
+		},
+		{
+			"name": "Sasha Whiteman",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Sasha_Whiteman",
+			"relationship": "nephew",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/436"
+		}
+	],
+	"firstEpisode": "\"House of 1000 Bounces\"",
+	"voicedBy": "Beth Dover",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/59",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Caitlin"
+}

@@ -1,0 +1,19 @@
+{
+	"id": 42,
+	"name": "Bethany",
+	"image": "/bobs-burgers/images/42.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"relatives": [
+		{
+			"name": "Jacob",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Jacob",
+			"relationship": "son",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/214"
+		}
+	],
+	"firstEpisode": "\"Wag the Hog\"",
+	"voicedBy": "Sarah Baker",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/42",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Bethany"
+}

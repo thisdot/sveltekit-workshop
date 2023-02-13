@@ -1,0 +1,13 @@
+{
+	"id": 17,
+	"name": "Angel",
+	"image": "/bobs-burgers/images/17.jpg",
+	"gender": "Male",
+	"hairColor": "Black",
+	"occupation": "Baseball Player",
+	"firstEpisode": "\"Torpedo\"",
+	"voicedBy": "David Herman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/17",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Angel",
+	"relatives": []
+}

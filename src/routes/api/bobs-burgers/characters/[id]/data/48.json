@@ -1,0 +1,80 @@
+{
+	"id": 48,
+	"name": "Robert \"Bob\" Belcher, Jr.",
+	"image": "/bobs-burgers/images/48.jpg",
+	"age": "44 (s5 Father of the Bob, formerly), ,",
+	"gender": "Male",
+	"relatives": [
+		{
+			"name": "Linda Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Linda_Belcher",
+			"relationship": "wife",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/276"
+		},
+		{
+			"name": "Gene Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Gene_Belcher",
+			"relationship": "son",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/171"
+		},
+		{
+			"name": "Tina Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Tina_Belcher",
+			"relationship": "older daughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/477"
+		},
+		{
+			"name": "Louise Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Louise_Belcher",
+			"relationship": "younger daughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/281"
+		},
+		{
+			"name": "Gloria",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Gloria",
+			"relationship": "mother-in-law",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/181"
+		},
+		{
+			"name": "Al",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Al",
+			"relationship": "father-in-law",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/5"
+		},
+		{
+			"name": "Gayle",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Gayle",
+			"relationship": "sister-in-law",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/170"
+		},
+		{
+			"name": "Big Bob",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Big_Bob",
+			"relationship": "father",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/45"
+		},
+		{ "name": "Mrs. Belcher", "relationship": "mother; deceased" },
+		{ "name": "Ernest Lombard", "relationship": "maternal uncle" },
+		{
+			"name": "Vanessa",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Cousin_Vanessa",
+			"relationship": "cousin",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/99"
+		},
+		{
+			"name": "Burt",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Burt",
+			"relationship": "grandfather-in-law"
+		},
+		{
+			"name": "Marie",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Marie",
+			"relationship": "cousin-in-law"
+		}
+	],
+	"occupation": "Chef/owner and operator of Bob's Burgers",
+	"firstEpisode": "\"Human Flesh\"",
+	"voicedBy": "H. Jon Benjamin",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/48",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Bob_Belcher"
+}

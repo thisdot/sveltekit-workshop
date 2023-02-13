@@ -1,0 +1,21 @@
+{
+	"id": 96,
+	"name": "Cooper",
+	"image": "/bobs-burgers/images/96.jpg",
+	"gender": "Male",
+	"hairColor": "Brown (former)",
+	"relatives": [
+		{
+			"name": "Beverly",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Beverly",
+			"relationship": "Wife",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/44"
+		},
+		{ "name": "5 unnamed children" }
+	],
+	"occupation": "Blueberry/Marijuana Farmer",
+	"firstEpisode": "\"Bob Fires the Kids\"",
+	"voicedBy": "Nick Offerman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/96",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Cooper"
+}

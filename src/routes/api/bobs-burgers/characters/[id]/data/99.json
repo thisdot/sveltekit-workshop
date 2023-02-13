@@ -1,0 +1,11 @@
+{
+	"id": 99,
+	"name": "Vanessa",
+	"image": "/bobs-burgers/images/99.jpg",
+	"gender": "Female",
+	"occupation": "Cult member",
+	"firstEpisode": "\"Uncle Teddy (mentioned), \"",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/99",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Cousin_Vanessa",
+	"relatives": []
+}

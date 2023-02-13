@@ -1,0 +1,13 @@
+{
+	"id": 9,
+	"name": "Alice",
+	"image": "/bobs-burgers/images/9.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"occupation": "Owner & Operator of When hairColory Met Smoothies: Smoothies & hairColor Removal",
+	"firstEpisode": "\"As I Walk Through the Alley of the Shadow of Ramps\"",
+	"voicedBy": "Brooke Dillman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/9",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Alice",
+	"relatives": []
+}

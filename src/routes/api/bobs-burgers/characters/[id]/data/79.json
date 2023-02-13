@@ -1,0 +1,12 @@
+{
+	"id": 79,
+	"name": "Cheryl",
+	"image": "/bobs-burgers/images/79.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"firstEpisode": "\"Romancing the Beef\"",
+	"voicedBy": "Brooke Dillman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/79",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Cheryl",
+	"relatives": []
+}

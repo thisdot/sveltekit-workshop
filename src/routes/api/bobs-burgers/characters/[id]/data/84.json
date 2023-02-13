@@ -1,0 +1,13 @@
+{
+	"id": 84,
+	"name": "Christy",
+	"image": "/bobs-burgers/images/84.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"occupation": "Soccer Coach",
+	"firstEpisode": "\"The Hurt Soccer\"",
+	"voicedBy": "Rachel Dratch",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/84",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Christy",
+	"relatives": []
+}

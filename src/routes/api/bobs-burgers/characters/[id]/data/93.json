@@ -1,0 +1,12 @@
+{
+	"id": 93,
+	"name": "Colleen Caviello",
+	"image": "/bobs-burgers/images/93.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"firstEpisode": "\"Spaghetti Western and Meatballs\"",
+	"voicedBy": "Larry Murphy (\"Spaghetti Western and Meatballs\"), Jaime Moyer (\"P.T.A. It Ain't So\")",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/93",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Colleen_Caviello",
+	"relatives": []
+}

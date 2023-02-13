@@ -1,0 +1,13 @@
+{
+	"id": 52,
+	"name": "Brenda",
+	"image": "/bobs-burgers/images/52.jpg",
+	"gender": "Female",
+	"hairColor": "Black",
+	"occupation": "Student",
+	"firstEpisode": "\"Ain't Miss Debatin'\"",
+	"voicedBy": "John Roberts",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/52",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Brenda_(King%27s_Head_Island)",
+	"relatives": []
+}

@@ -1,0 +1,12 @@
+{
+	"id": 80,
+	"name": "Chet",
+	"image": "/bobs-burgers/images/80.jpg",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"firstEpisode": "\"God Rest Ye Merry Gentle-Mannequins\"",
+	"voicedBy": "Zach Galifianakis",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/80",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Chet",
+	"relatives": []
+}

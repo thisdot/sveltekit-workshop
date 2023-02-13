@@ -1,0 +1,12 @@
+{
+	"id": 72,
+	"name": "Chad",
+	"image": "/bobs-burgers/images/72.jpg",
+	"gender": "Male",
+	"hairColor": "Black",
+	"occupation": "Fictitious student at Wagstaff School",
+	"firstEpisode": "\"Bad Tina\"",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/72",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Chad_the_Zombie",
+	"relatives": []
+}

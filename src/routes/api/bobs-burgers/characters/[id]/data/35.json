@@ -1,0 +1,13 @@
+{
+	"id": 35,
+	"name": "Becket",
+	"image": "/bobs-burgers/images/35.jpg",
+	"age": "49",
+	"gender": "Male",
+	"hairColor": "Blonde",
+	"firstEpisode": "\"Land of the Loft\"",
+	"voicedBy": "Ken Marino",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/35",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Becket",
+	"relatives": []
+}

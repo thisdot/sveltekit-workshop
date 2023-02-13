@@ -1,0 +1,13 @@
+{
+	"id": 56,
+	"name": "Bryce",
+	"image": "/bobs-burgers/images/56.jpg",
+	"gender": "Male",
+	"hairColor": "Ginger",
+	"occupation": "High School Student",
+	"firstEpisode": "\"Full Bars\"",
+	"voicedBy": "Joe Lo Truglio",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/56",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Bryce",
+	"relatives": []
+}

@@ -1,0 +1,13 @@
+{
+	"id": 64,
+	"name": "Captain Davis",
+	"image": "/bobs-burgers/images/64.jpg",
+	"gender": "Male",
+	"hairColor": "Gray",
+	"occupation": "Fire House Captain",
+	"firstEpisode": "\"Motor, She Boat\"",
+	"voicedBy": "David Herman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/64",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Captain_Davis",
+	"relatives": []
+}

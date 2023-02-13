@@ -1,0 +1,13 @@
+{
+	"id": 77,
+	"name": "Charlotte",
+	"image": "/bobs-burgers/images/77.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"occupation": "Owner & Operator of The Petalphile",
+	"firstEpisode": "\"Human Flesh\"",
+	"voicedBy": "Melissa Bardin Galsky",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/77",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Charlotte",
+	"relatives": []
+}

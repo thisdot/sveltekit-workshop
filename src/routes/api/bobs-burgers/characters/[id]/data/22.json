@@ -1,0 +1,13 @@
+{
+	"id": 22,
+	"name": "April Buzzby",
+	"image": "/bobs-burgers/images/22.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"occupation": "Owner & Operator of You Do the Bath",
+	"firstEpisode": "\"Three Girls and a Little Wharfy\"",
+	"voicedBy": "Jaime Moyer",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/22",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/April_Buzzby",
+	"relatives": []
+}

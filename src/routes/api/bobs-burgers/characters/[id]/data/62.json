@@ -1,0 +1,13 @@
+{
+	"id": 62,
+	"name": "Candace",
+	"image": "/bobs-burgers/images/62.jpg",
+	"gender": "Female",
+	"hairColor": "Red",
+	"occupation": "Babysitter/College Student",
+	"firstEpisode": "\"Wag the Hog\"",
+	"voicedBy": "Melissa Bardin Galsky",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/62",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Candace",
+	"relatives": []
+}

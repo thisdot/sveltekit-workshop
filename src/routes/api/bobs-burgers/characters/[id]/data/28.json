@@ -1,0 +1,12 @@
+{
+	"id": 28,
+	"name": "August Scharffenheimer",
+	"image": "/bobs-burgers/images/28.jpg",
+	"gender": "Male",
+	"hairColor": "Gray",
+	"firstEpisode": "\"The Last Gingerbread House on the Left\"",
+	"voicedBy": "David Herman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/28",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/August_Scharffenheimer",
+	"relatives": []
+}

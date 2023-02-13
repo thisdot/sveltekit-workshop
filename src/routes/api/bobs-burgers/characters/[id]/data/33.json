@@ -1,0 +1,12 @@
+{
+	"id": 33,
+	"name": "Becca",
+	"image": "/bobs-burgers/images/33.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"occupation": "Student",
+	"firstEpisode": "\"Bye Bye Boo Boo\"",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/33",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Becca_(Bye_Bye_Boo_Boo)",
+	"relatives": []
+}

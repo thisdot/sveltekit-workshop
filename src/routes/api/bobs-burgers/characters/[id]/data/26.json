@@ -1,0 +1,13 @@
+{
+	"id": 26,
+	"name": "Asch",
+	"image": "/bobs-burgers/images/26.jpg",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"occupation": "First mate on the Windbreaker",
+	"firstEpisode": "First mate on the Windbreaker",
+	"voicedBy": "Larry Murphy",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/26",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Asch",
+	"relatives": []
+}

@@ -1,0 +1,13 @@
+{
+	"id": 90,
+	"name": "Clem",
+	"image": "/bobs-burgers/images/90.jpg",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"occupation": "Radio DJ",
+	"firstEpisode": "\"Long Time Listener, First Time Bob\"",
+	"voicedBy": "Nick Offerman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/90",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Clem_Clements",
+	"relatives": []
+}

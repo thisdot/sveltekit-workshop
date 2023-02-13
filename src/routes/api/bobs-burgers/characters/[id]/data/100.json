@@ -1,0 +1,26 @@
+{
+	"id": 100,
+	"name": "Critter",
+	"image": "/bobs-burgers/images/100.jpg",
+	"age": "20s-30s",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"relatives": [
+		{
+			"name": "Sidecar",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Sidecar",
+			"relationship": "son"
+		},
+		{
+			"name": "Mudflap",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Mudflap",
+			"relationship": "wife",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/352"
+		}
+	],
+	"occupation": "Chapter president of the One Eyed Snakes/Employee at What the Tech",
+	"firstEpisode": "\"Ear-sy Rider\"",
+	"voicedBy": "Robert Ben Garant",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/100",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Critter"
+}

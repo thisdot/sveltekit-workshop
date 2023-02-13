@@ -1,0 +1,12 @@
+{
+	"id": 30,
+	"name": "Barbara Bunkley",
+	"image": "/bobs-burgers/images/30.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"firstEpisode": "\"My Fuzzy Valentine\"",
+	"voicedBy": "Lindsey Stoddart",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/30",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Barbara_Bunkley",
+	"relatives": []
+}

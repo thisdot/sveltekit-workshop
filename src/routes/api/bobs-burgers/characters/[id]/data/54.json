@@ -1,0 +1,13 @@
+{
+	"id": 54,
+	"name": "Brian",
+	"image": "/bobs-burgers/images/54.jpg",
+	"gender": "Male",
+	"hairColor": "Black",
+	"occupation": "High School Student",
+	"firstEpisode": "\"Legends of the Mall\"",
+	"voicedBy": "Eugene Cordero",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/54",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Brian",
+	"relatives": []
+}

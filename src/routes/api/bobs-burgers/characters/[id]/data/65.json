@@ -1,0 +1,13 @@
+{
+	"id": 65,
+	"name": "Captain Flarty",
+	"image": "/bobs-burgers/images/65.jpg",
+	"age": "60-70s",
+	"gender": "Male",
+	"hairColor": "Gray",
+	"firstEpisode": "\"Mutiny on the Windbreaker\"",
+	"voicedBy": "Jeffrey Tambor",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/65",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Captain_Flarty",
+	"relatives": []
+}

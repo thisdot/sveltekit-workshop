@@ -1,0 +1,14 @@
+{
+	"id": 2,
+	"name": "Mabel \"Abby\" Haddington",
+	"image": "/bobs-burgers/images/2.jpg",
+	"age": "9-10",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"occupation": "Student at Wagstaff School",
+	"firstEpisode": "\"Slumber Party\"",
+	"voicedBy": "Katie Crown, Rachel Dratch",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/2",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Abby_Haddington",
+	"relatives": []
+}

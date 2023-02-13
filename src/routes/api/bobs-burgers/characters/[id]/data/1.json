@@ -1,0 +1,13 @@
+{
+	"id": 1,
+	"name": "\"Dottie Minerva\"",
+	"image": "/bobs-burgers/images/1.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"occupation": "Student at Wagstaff School",
+	"firstEpisode": "\"The Kids Run the Restaurant\"",
+	"voicedBy": "Wendy Molyneux",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/1",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/%22Dottie_Minerva%22",
+	"relatives": []
+}

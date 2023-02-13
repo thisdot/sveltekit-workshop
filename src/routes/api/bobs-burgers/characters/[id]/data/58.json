@@ -1,0 +1,13 @@
+{
+	"id": 58,
+	"name": "Butcher",
+	"image": "/bobs-burgers/images/58.jpg",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"relatives": [{ "name": "Tony", "relationship": "ex-boyfriend" }],
+	"occupation": "Cashier/Deli Worker",
+	"firstEpisode": "\"Turkey in a Can\"",
+	"voicedBy": "Tuc Watkins",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/58",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Butcher"
+}

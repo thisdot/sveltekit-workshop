@@ -1,0 +1,61 @@
+{
+	"id": 5,
+	"name": "Al",
+	"image": "/bobs-burgers/images/5.jpg",
+	"age": "70s",
+	"gender": "Male",
+	"relatives": [
+		{
+			"name": "Gloria",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Gloria",
+			"relationship": "wife",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/181"
+		},
+		{
+			"name": "Linda Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Linda_Belcher",
+			"relationship": "older daughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/276"
+		},
+		{
+			"name": "Gayle",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Gayle",
+			"relationship": "younger daughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/170"
+		},
+		{
+			"name": "Bob Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Bob_Belcher",
+			"relationship": "son-in-law",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/48"
+		},
+		{
+			"name": "Tina Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Tina_Belcher",
+			"relationship": "older granddaughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/477"
+		},
+		{
+			"name": "Gene Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Gene_Belcher",
+			"relationship": "grandson",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/171"
+		},
+		{
+			"name": "Louise Belcher",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Louise_Belcher",
+			"relationship": "younger granddaughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/281"
+		},
+		{
+			"name": "Burt",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Burt",
+			"relationship": "father-in-law"
+		}
+	],
+	"occupation": "Retired",
+	"firstEpisode": "\"Crawl Space\"",
+	"voicedBy": "H. Jon Benjamin (\"Crawl Space\"), Sam Seder (\"It Snakes a Village\")",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/5",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Al"
+}

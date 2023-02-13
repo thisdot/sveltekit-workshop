@@ -1,0 +1,13 @@
+{
+	"id": 18,
+	"name": "Angela",
+	"image": "/bobs-burgers/images/18.jpg",
+	"gender": "Female",
+	"hairColor": "Blonde",
+	"occupation": "Student at Wagstaff School",
+	"firstEpisode": "\"The Hormone-iums\"",
+	"voicedBy": "Samantha Shelton",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/18",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Angela",
+	"relatives": []
+}

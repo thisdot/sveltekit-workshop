@@ -1,0 +1,25 @@
+{
+	"id": 83,
+	"name": "Chris Stokes",
+	"image": "/bobs-burgers/images/83.jpg",
+	"gender": "Male",
+	"hairColor": "Brown",
+	"relatives": [
+		{
+			"name": "Catherine Stokes",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Catherine_Stokes",
+			"relationship": "wife",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/69"
+		},
+		{
+			"name": "Kendra Stokes",
+			"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Kendra_Stokes",
+			"relationship": "daughter",
+			"url": "https://bobsburgers-api.herokuapp.com/characters/260"
+		}
+	],
+	"firstEpisode": "\"Sit Me Baby One More Time\"",
+	"voicedBy": "David Herman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/83",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Chris_Stokes"
+}

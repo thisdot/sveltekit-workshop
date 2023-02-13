@@ -1,0 +1,11 @@
+{
+	"id": 68,
+	"name": "Caroline",
+	"image": "/bobs-burgers/images/68.jpg",
+	"gender": "Female",
+	"hairColor": "Brown",
+	"firstEpisode": "\"Bobby Driver\"",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/68",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Caroline",
+	"relatives": []
+}

@@ -1,0 +1,13 @@
+{
+	"id": 46,
+	"name": "Billy",
+	"image": "/bobs-burgers/images/46.jpg",
+	"gender": "Male",
+	"hairColor": "Light Brown",
+	"occupation": "Ex-navy sailor",
+	"firstEpisode": "\"Frigate Me Knot\"",
+	"voicedBy": "David Herman",
+	"url": "https://bobsburgers-api.herokuapp.com/characters/46",
+	"wikiUrl": "https://bobs-burgers.fandom.com/wiki/Billy",
+	"relatives": []
+}
