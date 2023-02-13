@@ -21,15 +21,35 @@ git checkout module-2.2
 If you get stuck, you can checkout the branch with the appended `-solution` to the name. Solution branches are provided for each module and submodule.
 
 Branches:  
+`main`  
 `module-1`  
-`module-1-solution`  
 `module-2.1`  
 `module-2.1-solution`  
-`module-2.1.1-parallel-loading` (no solution branch)  
 `module-2.2`  
 `module-2.2-solution`  
 `module-2.3`  
-`module-2.3-solution`
+`module-2.3-solution`  
+`module-2.4`  
+`module-3.1`  
+`module-3.2`  
+`module-3.3`  
+`module-3.4`  
+`module-3.4-solution`  
+`module-3.5`  
+`module-4.1`  
+`module-4.1-solution`  
+`module-4.2`  
+`module-4.2-solution`  
+`module-4.3`  
+`module-4.4`  
+`module-4.4-solution`  
+`module-4.5`  
+`module-4.5-solution`  
+`module-4.6`  
+`module-5.0`  
+`module-5.0-solution`  
+`module-6.1`  
+`api` (for local use API server)
 
 ## Workshop Outline
 
