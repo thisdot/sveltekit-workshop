@@ -7,7 +7,7 @@
 <nav>
 	<ul>
 		<li>
-			<a href="/app/dashboard">App Dashboard</a>
+			<a href="/dashboard">App Dashboard</a>
 		</li>
 	</ul>
 </nav>

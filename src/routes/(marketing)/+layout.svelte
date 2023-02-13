@@ -1,6 +1,5 @@
 <script lang="ts">
-	import logo from '$lib/images/svelte-kit.svg';
-	import '../styles.css';
+	import '../../styles.css';
 </script>
 
 <header>
