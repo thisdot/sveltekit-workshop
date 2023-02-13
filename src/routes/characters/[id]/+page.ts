@@ -1,3 +1,5 @@
+import { error } from '@sveltejs/kit';
+
 type Character = {
 	id: number;
 	name: string;
@@ -11,6 +13,11 @@ type Character = {
 
 export const load = async ({ fetch, params }) => {
 	const response = await fetch(`https://svelte.fun/api/bobs-burgers/characters/${params.id}`);
+
+	if (!response.ok) {
+		const err = await response.json();
+		throw error(response.status, err.message);
+	}
 
 	return {
 		character: response.json() as Promise<Character>
