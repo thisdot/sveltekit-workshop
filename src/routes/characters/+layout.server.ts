@@ -6,7 +6,7 @@ type Character = {
 };
 
 export const load = async ({ fetch }) => {
-	const response = await fetch('https://svelte.fun/api/bobs-burgers/characters');
+	const response = await fetch('/api/characters');
 
 	return {
 		characters: response.json() as Promise<Character[]>
