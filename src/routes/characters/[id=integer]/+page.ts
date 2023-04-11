@@ -1,4 +1,5 @@
 import { error } from '@sveltejs/kit';
+import type { PageLoad } from './$types';
 
 type Character = {
 	id: number;
@@ -11,7 +12,7 @@ type Character = {
 	voicedBy?: string;
 };
 
-export const load = async ({ fetch, params }) => {
+export const load = (async ({ fetch, params }) => {
 	const response = await fetch(`https://svelte.fun/api/bobs-burgers/characters/${params.id}`);
 
 	if (!response.ok) {
@@ -22,4 +23,4 @@ export const load = async ({ fetch, params }) => {
 	return {
 		character: response.json() as Promise<Character>
 	};
-};
+}) satisfies PageLoad;
